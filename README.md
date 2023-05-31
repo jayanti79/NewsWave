@@ -1,3 +1,9 @@
+![image](https://github.com/jayanti79/NewsWave/assets/82038830/2adb509d-86ee-4953-8e2d-510b2cbc01bf)
+![image](https://github.com/jayanti79/NewsWave/assets/82038830/274ea36d-2551-4348-adf8-8e68541b3280)
+![image](https://github.com/jayanti79/NewsWave/assets/82038830/06934916-162e-4daa-a377-318379dec9b2)
+![image](https://github.com/jayanti79/NewsWave/assets/82038830/3dfe5329-c645-4ac2-bfe6-64b4d79e22f8)
+![image](https://github.com/jayanti79/NewsWave/assets/82038830/6f460e66-da3b-4a37-a114-d5e448c53e8b)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
